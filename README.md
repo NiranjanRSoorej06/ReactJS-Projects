@@ -35,4 +35,19 @@ Each folder is a standalone project that you can explore and run locally.
 3. **Start the project**  
    npm run dev  
 
+--
+
+🛠️ Tech Stack
+
+• ⚛️ ReactJS
+• ⚡ Vite (for some projects)
+• 🎨 CSS / Tailwind CSS
+• 📜 JavaScript (ES6+)
+
+📌 About
+
+These projects were made for practice and learning purposes.
+Contributions and suggestions are always welcome! 🚀
+
+👨‍💻 Author: Niranjan R Soorej
    
