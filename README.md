@@ -27,5 +27,12 @@ Each folder is a standalone project that you can explore and run locally.
 ## ⚡ How to Run Any Project  
 
 1. **Navigate into the project folder**  
-   ```sh
-   cd spotify-clone
+   cd spotify-clone  
+
+2. **Install dependencies**  
+   npm install  
+
+3. **Start the project**  
+   npm run dev  
+
+   
