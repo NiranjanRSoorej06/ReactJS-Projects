@@ -35,7 +35,7 @@ Each folder is a standalone project that you can explore and run locally.
 3. **Start the project**  
    npm run dev  
 
---
+---
 
 🛠️ Tech Stack
 
